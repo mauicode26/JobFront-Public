@@ -1,9 +1,6 @@
 ## Video demo!
 
-[Click here to view the demo](JobFrontDemo.mp4)
-
-... or you can click on it in the root of the project: `JobFrontDemo.mp4`
-
+Check out the demo on YouTube: [https://youtu.be/kv7x2tpgaQo?si=RLAVTCq4rexuwq-w](https://youtu.be/kv7x2tpgaQo?si=RLAVTCq4rexuwq-w)
 
 ## Where's the git history!?
 
